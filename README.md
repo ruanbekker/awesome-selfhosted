@@ -6,9 +6,20 @@ My List of Awesome Self-Hosted Applications
 
 List of Contents:
 
-- [External](#)
+- [Backups](#backups)
+- [External](#external-self-hosted-lists)
+
+## Backups
+
+**[`^        back to top        ^`](#)**
+
+| Homepage | Description | Docker   | Language   |
+| :------- | :---------: | :------: | ---------: |
+| [duplicati](https://www.duplicati.com/) | Backup Solution to store encrypted backups online | [linuxserver/duplicati](https://hub.docker.com/r/linuxserver/duplicati/) | `N/A` |
 
 ## External Self-Hosted Lists
+
+**[`^        back to top        ^`](#)**
 
 Great collection of awesome-lists's:
 
