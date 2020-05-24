@@ -8,6 +8,7 @@ List of Contents:
 
 - [Backups](#backups)
 - [Blogging](#blogging)
+- [Chat](#chat)
 - [External](#external-self-hosted-lists)
 - [Paas](#paas)
 
@@ -26,6 +27,14 @@ List of Contents:
 | Homepage | Description | Docker   | Language   |
 | :------- | :---------: | :------: | ---------: |
 | [ghost](https://ghost.org/) | Blogging platform with open source headless Node.js CMS | [ghost:latest](https://hub.docker.com/_/ghost) | `JavaScript` |
+
+## Chat
+
+**[`^        back to top        ^`](#)**
+
+| Homepage | Description | Docker   | Language   |
+| :------- | :---------: | :------: | ---------: |
+| [chatwoot](https://github.com/chatwoot/chatwoot) | Open Source Live Chat | [read here](https://www.chatwoot.com/docs/installation-guide-docker) | `Ruby` |
 
 
 ## External Self-Hosted Lists
