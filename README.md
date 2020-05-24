@@ -11,6 +11,7 @@ List of Contents:
 - [Chat](#chat)
 - [External](#external-self-hosted-lists)
 - [Paas](#paas)
+- [Wiki](#wiki)
 
 ## Backups
 
@@ -57,4 +58,14 @@ Great collection of PaaS:
 | :------------- | :----------: | :------: | -----------: |
 | [caprover](https://caprover.com/) | Deployment & Web Server Manager | [caprover/caprover](https://hub.docker.com/r/caprover/caprover) | `Multiple` |
 | [homelabos](https://gitlab.com/NickBusey/HomelabOS) | Privacy-Centric Open Source Data Center | Multiple | `Multiple` | 
+
+## Wiki
+
+**[`^        back to top        ^`](#)**
+
+Great collection of Wiki's and Documentation Software:
+
+| Repo           | Description  | Docker   | Language     |
+| :------------- | :----------: | :------: | -----------: |
+| [bookstack](https://github.com/BookStackApp/BookStack) | Documentation and Wiki built with PHP and Laravel | [read here](https://github.com/BookStackApp/BookStack#-development-using-docker) | `PHP` |
 
