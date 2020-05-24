@@ -68,5 +68,6 @@ Great collection of Wiki's and Documentation Software:
 | Repo           | Description  | Docker   | Language     |
 | :------------- | :----------: | :------: | -----------: |
 | [bookstack](https://github.com/BookStackApp/BookStack) | Documentation and Wiki built with PHP and Laravel | [read here](https://github.com/BookStackApp/BookStack#-development-using-docker) | `PHP` |
+| [snibox](https://github.com/snibox/snibox) | Code Snippet Manager | [Dockerfile](https://github.com/snibox/snibox/blob/master/Dockerfile) | `Ruby` |
 | [trilium](https://github.com/zadam/trilium) | Knowledge Base with Trilium Notes | [Dockerfile](https://github.com/zadam/trilium/blob/master/Dockerfile) | `Node` |
 
