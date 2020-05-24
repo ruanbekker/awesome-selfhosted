@@ -9,6 +9,7 @@ List of Contents:
 - [Backups](#backups)
 - [Blogging](#blogging)
 - [Chat](#chat)
+- [Database Tools](#database-tools)
 - [External](#external-self-hosted-lists)
 - [Paas](#paas)
 - [Wiki](#wiki)
@@ -36,6 +37,14 @@ List of Contents:
 | Homepage | Description | Docker   | Language   |
 | :------- | :---------: | :------: | ---------: |
 | [chatwoot](https://github.com/chatwoot/chatwoot) | Open Source Live Chat | [read here](https://www.chatwoot.com/docs/installation-guide-docker) | `Ruby` |
+
+## Database Tools
+
+**[`^        back to top        ^`](#)**
+
+| Homepage | Description | Docker   | Language   |
+| :------- | :---------: | :------: | ---------: |
+| [cloudbeaver](https://github.com/dbeaver/cloudbeaver/) | Open Source Database Manager | [dalongrong/cloudbeaver](https://hub.docker.com/r/dalongrong/cloudbeaver) | `Java` |
 
 
 ## External Self-Hosted Lists
