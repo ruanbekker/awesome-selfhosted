@@ -47,4 +47,5 @@ Great collection of PaaS:
 | Repo           | Description  | Docker   | Language     |
 | :------------- | :----------: | :------: | -----------: |
 | [caprover](https://caprover.com/) | Deployment & Web Server Manager | [caprover/caprover](https://hub.docker.com/r/caprover/caprover) | `Multiple` |
+| [homelabos](https://gitlab.com/NickBusey/HomelabOS) | Privacy-Centric Open Source Data Center | Multiple | `Multiple` | 
 
